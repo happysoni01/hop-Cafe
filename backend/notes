@@ -1,0 +1,5 @@
+npm init
+npm i cors dot
+env express mongoose validator
+
+CONFIG.ENV and mongo cloud cluster 
