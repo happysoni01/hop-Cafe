@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="banner">
-          <div className="left">Hop Café</div>
+          <div className="left"><img src="./brand.png" alt="Hop Café" /></div>
           <div className="right">
             <p>Englishpura, Sehore</p>
             <p>Open: 05:00 PM - 12:00 AM</p>
