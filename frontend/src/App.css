@@ -38,8 +38,13 @@ nav .logo {
   flex: 1;
   display: flex;
   align-items: center;
-  font-size: 2rem;
+  z-index: -3;
 }
+nav .logo img {
+  width: 30%;
+  height: 20%;
+  }
+
 nav .navLinks {
   flex: 2;
 }
