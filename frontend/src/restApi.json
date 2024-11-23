@@ -25,48 +25,56 @@
                 "id": 1,
                 "image": "./dinner1.png",
                 "title": "Chole Naan",
+                "price":"₹150",
                 "category": "Dinner"
             },
             {
                 "id": 2,
                 "image": "./dinner2.png",
                 "title": "Masala Dosa",
+                "price":"₹80",
                 "category": "Dinner"
             },
             {
                 "id": 3,
                 "image": "./breakfast1.png",
                 "title": "Poha",
+                "price":"₹30",
                 "category": "Breakfast"
             },
             {
                 "id": 4,
                 "image": "./dinner3.png",
                 "title": "White Sauce Pasta",
+                "price":"₹180",
                 "category": "Dinner"
             },
             {
                 "id": 5,
                 "image": "./lunch1.png",
                 "title": "Pav Bhaji",
+                "price":"₹120",
                 "category": "Lunch"
             },
             {
                 "id": 6,
                 "image": "./dinner4.png",
                 "title": "Idli Sambhar",
+                "price":"₹100",
                 "category": "Lunch"
             },
             {
                 "id": 7,
                 "image": "./dinner5.png",
                 "title": "Appe",
+                "price":"₹90",
                 "category": "Breakfast"
             },
             {
                 "id": 8,
                 "image": "./dinner6.png",
                 "title": "Butter Paneer",
+                "price":"₹180",
                 "category": "Dinner"
             }
         ],
@@ -95,8 +103,8 @@
             {
                 "id": 4,
                 "image": "./team_member_4.png",
-                "name": "GAGAN SAHU",
-                "link":"https://www.instagram.com/gagan_sahu_26/",
+                "name": "APEKSHA YADAV",
+                "link":"https://www.instagram.com/_i_m_apeksha_/",
                 "designation": "Senior Chef"
             }
         ],
